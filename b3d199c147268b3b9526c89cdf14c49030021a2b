@@ -1,2 +1,3 @@
 [externalId "username:anymus"]
 	accountId = 1002060
+	password = bcrypt:4:kjTQKYqLbmanMlDja0c3Kw==:myYTdQCDCSfkHWOEibD41j/VKKSpepVA
