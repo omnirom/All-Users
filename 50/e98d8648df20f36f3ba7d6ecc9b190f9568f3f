@@ -1,2 +1,3 @@
 [externalId "username:lebel"]
 	accountId = 1002222
+	password = bcrypt:4:rP1ybDW2hoa/nR7iXRQ9OA==:I0uSErxjuk3gEujZkxwuXU+btArdNCcC
