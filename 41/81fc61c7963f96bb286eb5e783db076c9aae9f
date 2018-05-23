@@ -1,3 +1,4 @@
 [externalId "username:humberos"]
 	accountId = 1000515
 	password = bcrypt:4:uLkHsOXT+KQnHw+fcxgpow==:8oNa5X8pfkVRPToqoXD/aCJlSBsA4DfP
+	email = humberos@omnirom.org
