@@ -1,2 +1,3 @@
 [externalId "username:wael.hawsawi"]
 	accountId = 1002345
+	password = bcrypt:4:KKFpQBIsZhP4INsLsXb29Q==:n2iQyrFPIepc7CYhIXaIL6rAyA34iQJ0
