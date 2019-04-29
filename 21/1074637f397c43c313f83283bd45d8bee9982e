@@ -1,2 +1,3 @@
 [externalId "username:haggertk"]
 	accountId = 1001811
+	password = bcrypt:4:f6dpYduXFaiPzIncb0MUVg==:qA0ymPEaB85z0ccYVTlxtxbCswqxVTqa
